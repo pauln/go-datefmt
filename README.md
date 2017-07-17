@@ -3,6 +3,7 @@ Simple CLI date formatter written in Go
 
 ## Usage
 `go-datefmt` accepts the following CLI parameters:
+
 | Parameter | Default value       | Description                                         |
 | --------- | ------------------- | --------------------------------------------------- |
 | `-ts`     | `time.Now().Unix()` | Input date/time, as a UNIX timestamp                |
